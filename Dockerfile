@@ -16,7 +16,7 @@ COPY explorer-gui/ /ng-app/
 ARG ENV_CONFIG=docker-pre
 ENV ENV_CONFIG=$ENV_CONFIG
 
-ARG API_URL=http://127.0.0.1:8080/api/v1
+ARG API_URL=https://explorer.s2.dev.sora2.soramitsu.co.jp/api/v1
 ENV API_URL=$API_URL
 
 ARG NETWORK_NAME=SORA
