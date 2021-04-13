@@ -1,3 +1,3 @@
 [submodule "explorer-gui"]
 	path = explorer-gui
-	url = https://github.com/polkascan/polkascan-explorer-gui.git
+	url = https://github.com/sora-xor/polkascan-explorer-gui.git
